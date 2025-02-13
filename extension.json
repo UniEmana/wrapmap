@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "name": "Image Warp",
+  "description": "Permite distorcer imagens alterando seus vértices individualmente.",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "entry": "index.html"
+}
