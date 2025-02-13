@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
+  "manifest_version": 1,
   "name": "Image Warp",
   "description": "Permite distorcer imagens alterando seus vértices individualmente.",
   "version": "1.0.0",
   "author": "Seu Nome",
-  "entry": "index.html"
+  "action": {
+    "title": "Image Warp",
+    "icon": "icon.png",
+    "popover": "index.html",
+    "width": 400,
+    "height": 400
+  }
 }
