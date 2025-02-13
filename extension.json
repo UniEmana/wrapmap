@@ -1,8 +1,9 @@
 {
   "manifest_version": 1,
-  "name": "Image Warp",
-  "description": "Permite distorcer imagens alterando seus vértices individualmente.",
+  "id": "wrapmap",
+  "name": "WrapMap - Image Distortion",
+  "description": "Permite distorcer imagens alterando os vértices individualmente no Owlbear Rodeo.",
   "version": "1.0.0",
-  "author": "Seu Nome",
+  "author": "Uniemana",
   "entry": "index.html"
 }
